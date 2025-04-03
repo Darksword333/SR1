@@ -1,0 +1,1 @@
+off_t taille = lseek(fd, 0, SEEK_END);

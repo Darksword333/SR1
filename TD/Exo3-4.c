@@ -1,0 +1,1 @@
+off_t niemeposition = lseek(fd, (void*)&entier, (sizeof(int)));
